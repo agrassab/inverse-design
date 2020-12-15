@@ -1,0 +1,6 @@
+def func1(a,b):
+   if a>b:
+     ab=a**b
+   else:
+     ab=4
+return ab
